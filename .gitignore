@@ -1,0 +1,4 @@
+# Ignore all files except .ipynb
+/*
+!.gitignore
+!/**/*.ipynb
